@@ -35,7 +35,7 @@ I’m a **DevOps Engineer with 10+ years of experience** in CI/CD pipelines, clo
 ---
 
 ## 🌍 Let’s Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/udaykumartadka/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://yourportfolio.com)  
 
 ---
